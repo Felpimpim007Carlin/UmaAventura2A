@@ -9,5 +9,3 @@ avanca.forEach(botton=> {
         document.getElementById(proximoPasso).classList.add('ativo');
     })
 })
-
-apagar dps
