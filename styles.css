@@ -16,4 +16,10 @@ button{
 
 }
 
-apagar dps
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display:block;
+}
